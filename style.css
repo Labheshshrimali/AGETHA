@@ -1,0 +1,71 @@
+.brand-btn {
+    background-color: rgb(230, 3, 3);
+    color: white;
+    border-radius: ;
+    padding: 10px 22px;
+    font-size: 13px;
+    border: none;
+}
+
+
+
+.nav-link-hover:hover {
+    color: white!important;
+}
+
+.home-section {
+    background-color: black;
+}
+.home-text-part {
+    height: 600px;
+}
+
+.card-section {
+    height: 300px;
+}
+
+.second-card-section {
+    height: 600px;
+}
+
+.home-text-part h3 {
+    font-size: 32px;
+    color: brown;
+}
+
+.home-text-part h1 {
+    font-size: 72px;
+    font-weight: bolder;
+    color: white;
+}
+
+.home-text-part p {
+    font-size: 18px;
+    color: gainsboro;
+}
+
+.home-image-part {
+}
+
+.home-image-part img {
+    width: 85%;
+    object-fit: cover;
+}
+
+.card-left{
+/* height: 400px; */
+}
+.box{
+    height: 100px;
+    /* border: 2px solid green; */
+}
+
+.box span {
+    font-size: 35px;
+    color: red;
+}
+
+.box h2 {
+    font-size: 20px;
+    color:  rgba(255, 255, 255, 0.74);
+}
